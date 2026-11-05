@@ -17,8 +17,8 @@ Usar IA para transformar os ingredientes que a pessoa já tem em refeições vi�
 | Etapa | Documento | Status |
 |---|---|---|
 | 01 | [Problemas & Oportunidades](docs/01-problemas-e-oportunidades.md) | ✅ Concluído |
-| 02 | Desk Research e Benchmarking | 🔄 Em andamento |
-| 03 | Funcionalidades | ⏳ A fazer |
+| 02 | [Desk Research e Benchmarking](docs/02-desk-research.md) | ✅ Concluído |
+| 03 | Funcionalidades | 🔄 Próxima etapa |
 
 ## Autora
 
