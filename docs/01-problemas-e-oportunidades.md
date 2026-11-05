@@ -25,7 +25,7 @@ Usar IA para ajudar quem cozinha no dia a dia a transformar os ingredientes que 
 
 ## Restrições e pontos de atenção
 - Concorrência com IAs genéricas (ChatGPT, Gemini), com sites e redes de receita (TudoGostoso, Panelinha, TikTok, Instagram) e com assistentes de marcas no WhatsApp (Qualy, Perdigão)
-- Baixa retenção histórica de apps de receita (o pessoal baixa e desinstala); Mealime anunciou encerramento em out/2026
+- Baixa retenção histórica de apps de receita (o pessoal baixa e desinstala); 
 - Precisão do reconhecimento de ingredientes por foto ou nota fiscal
 - Risco de a IA gerar receita que não funciona ou com erro de medida e tempo
 - Segurança alimentar: alergias, restrições e validade dos alimentos
