@@ -2,7 +2,7 @@
 
 Assistente de refeições com IA que sugere receitas com o que você já tem em casa, reduzindo desperdício.
 
-Case de ponta a ponta, do discovery ao produto, construído com IA como parte de um curso de IA. Parte da ideia base e de parte da pesquisa de um [projeto original de 2021](https://aurealopes.notion.site/Minha-Cozinha-4355b686b1fc47ed833cb706725863bc) (curso de UX Design da Awari), refeito do zero em funcionalidades e visual.
+Case de ponta a ponta, do discovery ao produto, construído com IA. Parte da ideia base e de parte da pesquisa de um [projeto original de 2021](https://aurealopes.notion.site/Minha-Cozinha-4355b686b1fc47ed833cb706725863bc) (curso de UX Design da Awari), refeito do zero em funcionalidades e visual.
 
 ## O problema
 
