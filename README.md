@@ -19,6 +19,7 @@ Usar IA para transformar os ingredientes que a pessoa já tem em refeições vi�
 | 01 | [Problemas & Oportunidades](docs/01-problemas-e-oportunidades.md) | ✅ Concluído |
 | 02 | [Desk Research e Benchmarking](docs/02-desk-research.md) | ✅ Concluído |
 | 03 | [PRD do MVP](docs/03-prd.md) | ✅ v0.2 |
+| 04 | [Modelagem da solução](docs/04-modelagem-da-solucao.md) | 🟡 v0.2 em validação |
 
 ## Autora
 
